@@ -8,13 +8,13 @@ generate_feeds = true
 feed_filenames = ["atom.xml"]
 build_search_index = true
 
-[search]
-index_format = "fuse_json"
-
 taxonomies = [
   {name = "tags", feed = true},
   {name = "categories", feed = true},
 ]
+
+[search]
+index_format = "fuse_json"
 
 [markdown]
 render_emoji = true
