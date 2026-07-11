@@ -1,6 +1,6 @@
 base_url = "https://schembora.github.io"
 title = "Andrew Schembor"
-description = "Software Engineer at Amazon Web Services (AWS)"
+description = "Senior Software Engineer at Amazon Web Services (AWS)"
 default_language = "en"
 theme = "cela"
 compile_sass = false
@@ -33,7 +33,7 @@ home_title = "Andrew Schembor"
 home_content_dir = "blog"
 home_list_style = "default"
 show_home_content = true
-home_content = "Software Engineer at Amazon Web Services (AWS)"
+home_content = "Senior Software Engineer at Amazon Web Services (AWS)"
 show_home_social_icons = true
 social_icons = [
   {path = "https://github.com/schembora", title = "GitHub", icon = "github"},
