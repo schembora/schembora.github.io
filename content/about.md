@@ -1,7 +1,5 @@
----
-layout: page
-title: About
-permalink: /about/
----
++++
+title = "About"
++++
 
 My name is Andrew Schembor. This is my personal site.
