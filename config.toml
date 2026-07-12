@@ -37,6 +37,7 @@ home_content = "Senior Software Engineer at Amazon Web Services (AWS)"
 show_home_social_icons = true
 social_icons = [
   {path = "https://github.com/schembora", title = "GitHub", icon = "github"},
+  {path = "https://www.linkedin.com/in/andrew-schembor-240563155", title = "LinkedIn", icon = "linkedin"},
   {path = "mailto:schembora@gmail.com", title = "Email", icon = "email"},
   {path = "/atom.xml", title = "RSS", icon = "rss"},
 ]
